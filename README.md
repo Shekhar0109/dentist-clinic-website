@@ -7,7 +7,7 @@ This project is designed as a professional demo template for dental clinics and 
 ---
 
 ## 🌐 Live Demo
-(Deployed on Vercel – [Link coming soon](https://dentist-clinic-website.vercel.app/))
+(Deployed on Vercel – [Link](https://dentist-clinic-website.vercel.app/))
 
 ---
 
